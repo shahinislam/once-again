@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c99f3c3a-d07c-414d-81c4-f5746bf38309" name="Once_Again" url="http://localhost/once-again">
+        <fileTransfer port="0" mountedRoot="G:\xampp\htdocs\once-again" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
